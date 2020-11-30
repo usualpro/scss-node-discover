@@ -1,0 +1,22 @@
+{
+  "name": "scss-node-discover",
+  "version": "1.0.0",
+  "description": "Une envie de frais et de découverte",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel public/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usualpro/scss-node-discover.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usualpro/scss-node-discover/issues"
+  },
+  "homepage": "https://github.com/usualpro/scss-node-discover#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
